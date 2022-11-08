@@ -1,0 +1,31 @@
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.exe.config
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.exe
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.pdb
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.core.dll
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.core.pdb
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.Properties.Resources.resources
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.GenerateResource.cache
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.CopyComplete
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.exe
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.pdb
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.XMLParser.resources
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.AssemblyReference.cache
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.CoreCompileInputs.cache
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\Newtonsoft.Json.dll
+D:\VSprojects\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\Newtonsoft.Json.xml
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.AssemblyReference.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.SuggestedBindingRedirects.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\Bntu.Vsrpp.Akutsak.lab1.XMLParser.resources
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.Properties.Resources.resources
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.GenerateResource.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.CoreCompileInputs.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.exe
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.pdb
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.exe.config
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.exe
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.lab1.pdb
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.core.dll
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\Newtonsoft.Json.dll
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\bntu.vsrpp.akutsak.core.pdb
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\bin\Debug\Newtonsoft.Json.xml
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\bntu.vsrpp.akutsak.lab1\obj\Debug\bntu.vsrpp.akutsak.lab1.csproj.CopyComplete

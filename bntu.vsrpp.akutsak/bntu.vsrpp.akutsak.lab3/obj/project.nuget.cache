@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYfIO+oAoNZ0CmXqT5mJ478z2SUkdhIjjiJMAaqBtXP3OXzlZ30M38hijEMDaDMnhKNcJGKsYuQn5WYGeKwvYg==",
+  "success": true,
+  "projectFilePath": "E:\\Учёба\\4 курс\\Довнар\\bntu.vsrpp.akutsak\\bntu.vsrpp.akutsak.lab3\\bntu.vsrpp.akutsak.lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\bntu.vsrpp.akutsak.core.dll
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\bntu.vsrpp.akutsak.core.pdb
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.dll
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.pdb
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.CoreCompileInputs.cache
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.AssemblyReference.cache
+D:\VSprojects\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.CopyComplete
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\bntu.vsrpp.akutsak.core.dll
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\bntu.vsrpp.akutsak.core.pdb
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.AssemblyReference.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.CoreCompileInputs.cache
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.csproj.CopyComplete
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.dll
+E:\Учёба\4 курс\Довнар\bntu.vsrpp.akutsak\ClassLibrary1\obj\Debug\bntu.vsrpp.akutsak.core.pdb
